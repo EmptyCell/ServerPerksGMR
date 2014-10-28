@@ -1,0 +1,1 @@
+Weapon=(ClassName=KFPortalTurret.PTurret,PickupClassName=KFPortalTurret.PTurretPickup,AttachmentClassName=KFPortalTurret.PTurretAttachment,FriendlyName=KFPortalTurret.PTurret.ItemName,Description=KFPortalTurret.PTurret.Description,FallbackName="PortalTurret Turret",FallbackDesc="A turret which can be deployed to aid you in the combat.")
